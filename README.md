@@ -67,5 +67,5 @@ This project is licensed under the MIT License.
 
 
 ## 👤 Author
-Shaurya Mehta
+Shaurya Mehta & Diantha Kanchan 
 
